@@ -1,0 +1,48 @@
+/* Styles go here */
+body{
+  background-color: #fefefe;
+  font-family: Neris, sans-serif;
+  text-align: center;
+  font-size: 22px;
+}
+
+h1 {
+  font-size: 64px;
+  text-transform: uppercase;
+  font-weight: 100;
+}
+
+.container {
+  width: 80%;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+button {
+  color: #000;
+  background: #f5f5f5;
+  border-radius: 5px;
+  padding: 5px 20px;
+  margin: 5px;
+  font-family: Neris, sans-serif;
+}
+
+button:hover{
+  color: #f5f5f5;
+  background: #FC4691;
+  font-family: Neris, sans-serif;
+}
+
+input{
+  width: 90px;
+  font-family: Neris, sans-serif;
+}
+
+input[type="number"]{
+  width: 30px;
+  font-family: Neris, sans-serif;
+}
+
+ul {
+  list-style-type: none;
+}
